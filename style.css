@@ -121,7 +121,7 @@ header nav ul li a {
     height: 900px;
     width: 960px;
     border-radius: 10px;
-    background: url("images/index/buliding2.jpeg") no-repeat top center;
+    background: url("./images/index/buliding2.jpeg") no-repeat top center;
     background-size: 960px;
 }
 #main-image ul {
@@ -167,20 +167,20 @@ header nav ul li a {
     width: 100%;
 }
 #main-image ul li.timeline-1 {
-    background: url('/images/index/irelandFlag.png') no-repeat center;
+    background: url('./images/index/irelandFlag.png') no-repeat center;
     background-size: 200px;
 }
 #main-image ul li.timeline-2 {
-    background: url('/images/index/donegalFlag.png') no-repeat top center;
+    background: url('./images/index/donegalFlag.png') no-repeat top center;
 }
 #main-image ul li.timeline-3 {
-    background: url('/images/index/galwayFlag.png') no-repeat top center;
+    background: url('./images/index/galwayFlag.png') no-repeat top center;
 }
 #main-image ul li.timeline-4 {
-    background: url('/images/index/dublinFlag.png') no-repeat top center;
+    background: url('./images/index/dublinFlag.png') no-repeat top center;
 }
 #main-image ul li.timeline-5 {
-    background: url('/images/index/ucdFlag.png') no-repeat center;
+    background: url('./images/index/ucdFlag.png') no-repeat center;
     background-size: 275px;
 }
 #main-video {
